@@ -30,3 +30,9 @@ My main responsibility includes:
   * Resolve conflicts between members
 
 ![image](https://user-images.githubusercontent.com/80089456/167228950-f8faf5fd-f00e-4880-8b8b-166bb6b69152.png)
+![image](https://user-images.githubusercontent.com/80089456/167229592-f316aee5-2d4b-4fad-8a64-9bcc44707d75.png)
+![image](https://user-images.githubusercontent.com/80089456/167229598-31e9d17c-1f66-49fc-a85c-1f4167985580.png)
+![image](https://user-images.githubusercontent.com/80089456/167229611-9f5d7bbb-fa4f-401d-88ce-45955d2ea359.png)
+
+## Algorithm Ranking (out of 103)
+![image](https://user-images.githubusercontent.com/80089456/167229726-8ab32fab-61f8-4800-a0ba-668c7db21bf4.png)
